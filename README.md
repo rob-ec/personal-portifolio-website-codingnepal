@@ -2,6 +2,8 @@
 
 Complete Responsive Personal Portfolio Website using HTML CSS &amp; JavaScript.
 
+*Read this in other languages: [English](README.md), [Português do Brasil](README.pt-BR.md)*
+
 ## Demo
 
 <p align="center">
